@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+<title>MY WEBSITE!</title>
+</head>
+<body>
+
+<!--start:wrapper-->
+<div id="wrapper">
+
+<!--start:header-->
+<div id="header">
+<h1>MY EXERCISE</h1>
+</div>
+
+<!--start:content-->
+<div id="content">
+            <p>
+Hello world, this is my second repository which i have made from html. It is really sweet knowing to do various things through 
+ubuntu/linux.
+For those learning computer literacy in villages, there's still alot to learn apart from Access and the rest.
+Really happy to reach here in GITHUB.
+            </P>
+<!--end:content--></div>
+</body>
+</html>
