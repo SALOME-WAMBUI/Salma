@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+	<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<link rel="stylesheet" type="texts/css" href="assets/css/nomalize.css">
+	<title>exercise1</title>
+	</head>
+	<body>
+		<!--start:wrapper-->
+		<div id="wrapper">
+
+		
+		
+		<div class="school"><p>I AM BEAUTIFUL</p></div>
+		<div class="classroom"><p>I LOVE EATING</p></div>
+		<div class="toilets"><p>I LOVE PLAYING</p></div>
+		<div class="office"><p>LOVE DANCING</p></div>
+        
+		<div class="kitchen"><img src="assets/images/photoshop.jpg"float="right"<p>I LOVE EATING A LOT</p></div>
+        
+		<div class="salome"><p>RICE BEING MY BEST FOOD</p></div>
+		<div class="sally"><p>FOOTBALL BEING MY BEST GAME</p></div>
+		<div class="salma"><p>LOVE ARSENAL</p></div><br clear="all">
+        <div class="similar"><p>WOULD LOVE TO VISIT U.K ONE DAY</p></div>
+		
+		
+			
+			<!--end:wrapper-->
+            </div>
+
+		</body>
+		</html>
